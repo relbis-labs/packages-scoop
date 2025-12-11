@@ -1,0 +1,10 @@
+{
+    "extract_dir": "Lions.StreamForwarder.Cli",
+    "bin": [
+        [ "Lions.StreamForwarder.Cli.exe", "stream-forwarder", "" ]
+    ],
+    "license": "MIT",
+    "hash": "85f6661f6f0561665f724f2ce400062f4efb70d355b7d19cae6b458754e26ec6",
+    "version": "0.1.0.12",
+    "url": "https://github.com/relbis-labs/packages-scoop/releases/download/v0.1.0.12/Lions.StreamForwarder.Cli_0.1.0.12.zip"
+}
