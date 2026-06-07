@@ -4,7 +4,7 @@
         [ "task-manager.exe", "task-manager", "" ]
     ],
     "license": "MIT",
-    "hash": "15c52c07e2bc4939097dfdb4cfb1a306e3142eec620b350d5345102f648d0f1d",
-    "version": "1.0.0.59",
-    "url": "https://github.com/relbis-labs/task-manager/releases/download/v1.0.0.59/task-manager_1.0.0.59.zip"
+    "hash": "a27facd754e92a03be856ef7e6050b6bf9eff094be3246d5cb93051e62019647",
+    "version": "1.0.0.64",
+    "url": "https://github.com/relbis-labs/task-manager/releases/download/v1.0.0.64/task-manager_1.0.0.64.zip"
 }
